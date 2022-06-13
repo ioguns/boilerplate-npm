@@ -1,4 +1,5 @@
 {
+  "license": "MIT",
   "keywords": [ "backend", "nodejs", "express" ,"freecodecamp"],
 	"author":"Ishola Ogunseye",
 	"description":"Learn Backend development with freecodecamp",
